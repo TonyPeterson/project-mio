@@ -1,0 +1,29 @@
+# files built for the web
+server/public/css/
+server/public/scripts/
+temp/
+
+# SASS cache
+.sass-cache
+
+# dev environment specific settings
+server/devSettings.json
+
+# OS junk files
+[Tt]humbs.db
+*.DS_Store
+
+# Sublime files
+*.sublime-*
+
+# WebStorm files
+.idea
+
+# NodeJS modules
+node_modules
+
+# logs
+*.log
+logs/
+
+sprites_orig/

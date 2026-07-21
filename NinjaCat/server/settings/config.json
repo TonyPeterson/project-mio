@@ -1,0 +1,46 @@
+{
+    "defaults": {
+        "cdnEnabled": false,
+        "cdnBaseUrl": "",
+        "cacheDefaultTTL": 3600000,
+        "cacheTTLMinutes": {
+            
+        },
+        "showErrorStacktrace": false,
+        "sessionSecret": "cW89WCZqNmwgReVu",
+        "authRequired": true,
+        "localAuthentication": {
+            "signInUrl": "/en-us/projectmio/password",
+            "returnUrl": "/en-us/projectmio/",
+            "username": "user",
+            "password": "mscommio!",
+            "timePasswords": {
+                "pLG8nwYLM2Vg": "2016-10-27T07:00:00.000Z",
+                "zXh6LhJDCDR3": "2016-11-03T07:00:00.000Z",
+                "FYTRGETagLvn": "2016-11-06T07:00:00.000Z",
+                "t64bW3qZ9sfH": "2016-11-09T07:00:00.000Z",
+                "ZjZ39ds6VUc8": "2016-11-12T07:00:00.000Z",
+                "Zjv7UuUCkJ9x": "2016-11-15T07:00:00.000Z",
+                "63DedegzjsLC": "2016-11-18T07:00:00.000Z",
+                "7vPveFBmk8Rg": "2016-11-21T07:00:00.000Z",
+                "V2686FLB2y2Z": "2016-11-24T07:00:00.000Z",
+                "nkgEDFZVzAe3": "2016-11-27T07:00:00.000Z",
+                "fRa3uFUZXXrZ": "2016-11-30T07:00:00.000Z",
+                "ShowalterGamer!": "2016-12-08T07:00:00.000Z"
+            }
+        }
+    },
+
+    "development": {
+        "cdnEnabled": false,
+        "showErrorStacktrace": true,
+        "authRequired": false
+    },  
+
+    "production": {
+        "cdnEnabled": true,
+        "showErrorStacktrace": false,
+        "authRequired": true
+    }
+
+}

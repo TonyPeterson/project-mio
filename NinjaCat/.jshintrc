@@ -1,0 +1,31 @@
+{
+    "curly": false,
+    "eqeqeq": true,
+    "immed": true,
+    "latedef": true,
+    "newcap": true,
+    "noarg": true,
+    "sub": true,
+    "undef": true,
+    "boss": true,
+    "eqnull": true,
+    "browser": true,
+    "smarttabs": true,
+    "onecase": true,
+    "globals": {
+        "jQuery": true,
+        "console": true,
+        "module": true,
+        "require": true,
+        "_": true,
+        "Modernizr": true,
+        "$": true,
+        "app": true,
+        "templates": true,
+        "process": true,
+        "__dirname": true,
+        "Phaser": true,
+        "p2": true,
+        "interact": true
+    }
+}

@@ -1,0 +1,92 @@
+{"frames": {
+
+"island_001":
+{
+	"frame": {"x":3,"y":3,"w":1857,"h":531},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1857,"h":531},
+	"sourceSize": {"w":1857,"h":531}
+},
+"island_002":
+{
+	"frame": {"x":3,"y":538,"w":1575,"h":293},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1575,"h":293},
+	"sourceSize": {"w":1575,"h":293}
+},
+"island_003":
+{
+	"frame": {"x":3,"y":1051,"w":853,"h":249},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":853,"h":249},
+	"sourceSize": {"w":853,"h":249}
+},
+"island_004":
+{
+	"frame": {"x":3,"y":835,"w":1394,"h":212},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1394,"h":212},
+	"sourceSize": {"w":1394,"h":212}
+},
+"island_005":
+{
+	"frame": {"x":860,"y":1051,"w":344,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":344,"h":200},
+	"sourceSize": {"w":344,"h":200}
+},
+"island_006":
+{
+	"frame": {"x":3,"y":1304,"w":853,"h":230},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":853,"h":230},
+	"sourceSize": {"w":853,"h":230}
+},
+"island_008":
+{
+	"frame": {"x":1582,"y":691,"w":439,"h":210},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":439,"h":210},
+	"sourceSize": {"w":439,"h":210}
+},
+"island_009":
+{
+	"frame": {"x":1208,"y":1082,"w":758,"h":331},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":758,"h":331},
+	"sourceSize": {"w":758,"h":331}
+},
+"island_010":
+{
+	"frame": {"x":1401,"y":905,"w":515,"h":173},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":515,"h":173},
+	"sourceSize": {"w":515,"h":173}
+},
+"island_011":
+{
+	"frame": {"x":1582,"y":538,"w":451,"h":149},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":451,"h":149},
+	"sourceSize": {"w":451,"h":149}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "islands.png",
+	"format": "RGBA8888",
+	"size": {"w":2036,"h":1537},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:94126a327c05ca98f8ae60e6d9c42495:fe0769afd64dedac90e771a278b7b6e3:a801af7d4fe0d854730790a7c19a074c$"
+}
+}

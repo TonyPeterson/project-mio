@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no,width=device-width" />
+    <title>Project Mio</title>
+    <link rel="stylesheet" href="{{cdnVer "css/app.css"}}{{{cdn.cacheQS}}}">
+</head>
+
+<body class="{{bodyClass}}">
+
+    {{{body}}}
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script>var ProjectMio={cdn:'{{{cdn.baseUrl}}}'};</script>
+    <script src="{{cdnVer "scripts/libs.js"}}{{{cdn.cacheQS}}}"></script>
+    <script src="{{cdnVer "scripts/app.js"}}{{{cdn.cacheQS}}}"></script>
+
+    {{#each scriptUrls}}
+    <script src="{{this}}{{{@root.cdn.cacheQS}}}"></script>
+    {{/each}}
+
+    {{#if jsFunctionName}}
+    <script>
+        {{jsFunctionName}}();
+    </script>
+    {{/if}}
+
+</body>
+</html>

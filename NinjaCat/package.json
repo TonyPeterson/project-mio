@@ -1,0 +1,77 @@
+{
+  "name": "ninjacat",
+  "title": "Project Mio",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "http://microsoft.com/",
+  "repository": {
+    "type": "git",
+    "url": "https://microsoftgarage.visualstudio.com/Garage%20Projects/Project%20Mio"
+  },
+  "scripts": {
+    "start": "node server/app.js",
+    "test": "jest"
+  },
+  "engines": {
+    "node": ">=6.3.0"
+  },
+  "jest": {
+    "globals": {
+      "app": {
+        "json": {},
+        "controls": {},
+        "levels": {},
+        "states": {},
+        "utils": {}
+      },
+      "testPathDirs": [
+        "test"
+      ]
+    }
+  },
+  "dependencies": {
+    "accepts": "^1.3.3",
+    "basic-auth": "^1.0.4",
+    "bluebird": "^3.4.6",
+    "body-parser": "^1.15.2",
+    "compression": "^1.6.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "express-graceful-exit": "^0.4.0",
+    "express-handlebars": "^3.0.0",
+    "express-session": "^1.14.1",
+    "express-validator": "^3.2.0",
+    "grunt": "^1.3.0",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^2.2.0",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-uglify": "^3.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-newer": "^1.2.0",
+    "grunt-sass": "^2.0.0",
+    "grunt-texturepacker": "^0.0.1",
+    "grunt-ver": "^0.5.3",
+    "handlebars": "^4.0.5",
+    "imagemin-pngcrush": "^4.0.0",
+    "imagemin-pngquant": "^4.0.0",
+    "jit-grunt": "^0.10.0",
+    "jquery": "^3.1.1",
+    "lodash": "^4.16.3",
+    "morgan": "^1.7.0",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
+    "phaser": "^2.6.2",
+    "time-grunt": "^1.4.0",
+    "underscore": "^1.8.3",
+    "uuid": "^3.0.1",
+    "winston": "^2.2.0"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "jest": "^20.0.4"
+  }
+}

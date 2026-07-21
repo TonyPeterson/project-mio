@@ -1,0 +1,84 @@
+{"frames": {
+
+"glitch_00":
+{
+	"frame": {"x":3,"y":3,"w":633,"h":349},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":633,"h":349},
+	"sourceSize": {"w":633,"h":356}
+},
+"glitch_01":
+{
+	"frame": {"x":640,"y":3,"w":633,"h":349},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":633,"h":349},
+	"sourceSize": {"w":633,"h":356}
+},
+"glitch_02":
+{
+	"frame": {"x":1277,"y":3,"w":633,"h":349},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":633,"h":349},
+	"sourceSize": {"w":633,"h":356}
+},
+"glitch_03":
+{
+	"frame": {"x":3,"y":356,"w":633,"h":349},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":633,"h":349},
+	"sourceSize": {"w":633,"h":356}
+},
+"glitch_04":
+{
+	"frame": {"x":640,"y":356,"w":633,"h":349},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":633,"h":349},
+	"sourceSize": {"w":633,"h":356}
+},
+"glitch_05":
+{
+	"frame": {"x":1277,"y":356,"w":633,"h":349},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":633,"h":349},
+	"sourceSize": {"w":633,"h":356}
+},
+"glitch_06":
+{
+	"frame": {"x":3,"y":709,"w":633,"h":349},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":633,"h":349},
+	"sourceSize": {"w":633,"h":356}
+},
+"glitch_07":
+{
+	"frame": {"x":640,"y":709,"w":633,"h":349},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":633,"h":349},
+	"sourceSize": {"w":633,"h":356}
+},
+"glitch_08":
+{
+	"frame": {"x":1277,"y":709,"w":633,"h":349},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":633,"h":349},
+	"sourceSize": {"w":633,"h":356}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "glitch.png",
+	"format": "RGBA8888",
+	"size": {"w":1913,"h":1061},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d0d543b3703484bd76618aba28ed80d8:a7f6e1c7d75811e5fcf27c5e8dfaf78a:89933d2a8f5d05a9ea9f8330335d9433$"
+}
+}
