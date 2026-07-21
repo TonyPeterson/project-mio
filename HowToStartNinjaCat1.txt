@@ -1,0 +1,18 @@
+Before you begin, you have to have NodeJS (https://nodejs.org/en) NPM (https://www.npmjs.com/) installed on your Windows machine. 
+Then, from your terminal run "npm install" from the repo NinjaCat. Then "grunt" and "nodemon"
+
+How To Start Ninja Cat
+1. Open up command prompt
+2. Navigate to Git Repo (C:\Users\tonyp\Documents\Git\ProjectMio\NinjaCat)
+3. "grunt"
+4. "nodemon"
+5. Open Chrome and navigate to URL "localhost:3000" 
+6. You may need to refresh
+7. F11 will full screen the game
+8. Use AntiMicro to tether a BlueTooth controller 
+
+
+May 2024 update
+After a bunch of troubleshooting, I needed to install the newest versions of both Grunt and Nodemon from the NinjaCat directory for it to work... 
+npm install -g grunt-cli
+npm install -g nodemon
