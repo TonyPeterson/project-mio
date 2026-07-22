@@ -8,7 +8,7 @@
         },
         "showErrorStacktrace": false,
         "sessionSecret": "cW89WCZqNmwgReVu",
-        "authRequired": true,
+        "authRequired": false,
         "localAuthentication": {
             "signInUrl": "/en-us/projectmio/password",
             "returnUrl": "/en-us/projectmio/",
@@ -40,7 +40,7 @@
     "production": {
         "cdnEnabled": true,
         "showErrorStacktrace": false,
-        "authRequired": true
+        "authRequired": false
     }
 
 }
